@@ -1,5 +1,5 @@
 <?php
 
-    echo "Dit is de index pagina";
+    echo "Dit is de index";
 
 ?>
