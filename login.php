@@ -1,5 +1,5 @@
 <?php 
 
-echo "Dit is de login";
+echo "<h1>Dit is de login pagina</h1>";
 
 ?>
